@@ -60,13 +60,13 @@ const Contact = () => {
 							website to get in touch. Simply fill out the
 							required fields, and I'll get back to you as soon as
 							possible. If you prefer to connect via social media,
-							you can find me on Instagram at{" "}
+							you can find me on LinkedIn at{" "}
 							<a
-								href={info?.socials?.instagram}
+								href={info?.socials?.linkedin}
 								target="_blank"
 								rel="noreferrer"
 							>
-								@nomanabdullahr
+								@noman-swe
 							</a>
 							. I post regular updates and engage with my
 							followers there, so feel free to reach out!
