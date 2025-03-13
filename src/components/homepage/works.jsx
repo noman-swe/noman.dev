@@ -23,7 +23,7 @@ const Works = () => {
 								alt="LuminousLabs"
 								className="work-image"
 							/>
-							<Link className="work-title">Luminous Labs</Link>
+							<p className="work-title">Luminous Labs</p>
 							<div className="work-subtitle">
 								Frontend Developer
 							</div>
@@ -40,7 +40,9 @@ const Works = () => {
 							<div className="work-subtitle">
 								Trainee Frontend Developer
 							</div>
-							<div className="work-duration">03/2022 - 10/2022</div>
+							<div className="work-duration">
+								03/2022 - 10/2022
+							</div>
 						</div>
 					</div>
 				}
